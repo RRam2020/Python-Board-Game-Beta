@@ -1,0 +1,83 @@
+# Leave a blank line only between cards
+# no lines can start with a "'#' except for comments
+# Each card can have 0-4 powers
+# and matching display text
+#
+# Card powers
+# 0 Random option
+# 1 Moved player forward 3 spaces
+# 2 Moved player forward by dice roll
+# 3 All players moved up 3 spaces
+# 4 All players move up dice roll
+# 5 All players move back 3 spaces
+# 6 Move player to random spot
+# 7 All players move to random spot
+# 8 All players back to start
+# 9 Do Nothing
+#
+# Template card below
+# Card's Title
+# Image (png) Name in art folder EX: art1, ERROR
+# Text additional display text
+# 0 Display text 1
+# 1 Display text 2
+# 2 Display text 3
+# 3 Display text 4
+#
+# Truth Dare skip card
+# Math Quiz
+#
+#
+#
+Missing lines this card gets ignored
+
+Title Card 0
+Art0
+Text
+
+Title Card 1
+Art
+Text
+Error catch (no integer) this line should get ignored
+0 Display text for card 1
+
+John Jacob Card 2
+Art2
+all players move up by one dice roll
+1 Display text a
+2 Display text b
+
+Title b Card 3
+Art3
+Text b
+4
+5
+6
+
+# overflow choices example
+Title b Card 4
+Art4
+Text b
+8
+7
+6
+5
+4
+5
+
+Truth or Dare
+ToD
+Text b
+2 What is your fav boyband?
+2 Do a 15 second dance
+9 Skip
+
+Square root of 42
+Math
+Text b
+1 6.48
+9 5.23
+9 9.11
+9 8.05
+
+#End of file
