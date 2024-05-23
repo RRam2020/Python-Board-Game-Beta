@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b3a779-5a28-47b5-bfd3-febe4038e98e" name="Changes" comment="Git v2">
-      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+    <list default="true" id="e3b3a779-5a28-47b5-bfd3-febe4038e98e" name="Changes" comment="Git v2.1 small error and typo fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,39 @@
       <option name="project" value="LOCAL" />
       <updated>1716421805814</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Git v2">
+      <option name="closed" value="true" />
+      <created>1716422222195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716422222195</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Git v3 small error and typo fix">
+      <option name="closed" value="true" />
+      <created>1716422263471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716422263471</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Git v2.1 small error and typo fix">
+      <option name="closed" value="true" />
+      <created>1716422298453</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716422298453</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Git v2.1 small error and typo fix">
+      <option name="closed" value="true" />
+      <created>1716422310566</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716422310566</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +142,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Git v1" />
     <MESSAGE value="Git v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Git v2" />
+    <MESSAGE value="Git v3 small error and typo fix" />
+    <MESSAGE value="Git v2.1 small error and typo fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git v2.1 small error and typo fix" />
   </component>
 </project>

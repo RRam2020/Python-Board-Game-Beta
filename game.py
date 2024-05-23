@@ -13,6 +13,7 @@ from tools.player import *  # make player an object
 # display game info on the game board
 # change number system for cards to use two digit for more card options 01,02,03 ect
 # enable  actions for card choices
+# replace images
 
 gameDeck = makeD()  # read in the Card.txt file to make cards
 # printD(gameDeck)    # test cards
