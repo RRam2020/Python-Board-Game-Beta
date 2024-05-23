@@ -14,6 +14,7 @@ from tools.player import *  # make player an object
 # change number system for cards to use two digit for more card options 01,02,03 ect
 # enable  actions for card choices
 # replace images
+# find a font got text
 
 gameDeck = makeD()  # read in the Card.txt file to make cards
 # printD(gameDeck)    # test cards
@@ -23,7 +24,7 @@ PlayerCount = 2  # number of players
 ActivePlayer = 0  # Used for player turn tracking
 NextPlayer = 1  # temp for beta
 gameController = 0  # 0:Board 1:Animate 2:Card
-
+cardDraw = 0    # not needed but it removes an error
 # Make Players
 Players = []  # list to store player
 for i in range(0, PlayerCount):
@@ -45,8 +46,8 @@ pygame.display.set_caption('IZY2091 Pygame')  # window name
 Black = (0, 0, 0)  # preset color for text
 White = (255, 255, 255)
 Gray = (125, 125, 125)
-largeFont = pygame.font.SysFont(None, 50)  # preset default font
-smallFont = pygame.font.SysFont(None, 25)  # preset default font
+largeFont = pygame.font.SysFont(None, 50)  # preset large font
+smallFont = pygame.font.SysFont(None, 25)  # preset small font
 
 button1 = pygame.Rect(75, 350, 375, 48)
 button2 = pygame.Rect(75, 400, 375, 48)
@@ -109,7 +110,7 @@ while running:
                     cardArt = gameDeck[cardDraw].image
                     cardPic = pygame.image.load(cardArt).convert_alpha()
                     cardText = gameDeck[cardDraw].text
-                    gameController == 1
+                    gameController = 1
 
             if event.key == pygame.K_w:  # take turn
                 gameController = 1  # set to animation
