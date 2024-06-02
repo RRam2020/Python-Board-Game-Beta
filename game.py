@@ -47,6 +47,7 @@ Black = (0, 0, 0)  # preset color for text
 White = (255, 255, 255)
 Gray = (125, 125, 125)
 largeFont = pygame.font.SysFont(None, 50)  # preset large font
+midFont = pygame.font.SysFont(None, 35)  # preset small font
 smallFont = pygame.font.SysFont(None, 25)  # preset small font
 
 button1 = pygame.Rect(75, 350, 375, 48)
@@ -58,7 +59,8 @@ button4 = pygame.Rect(75, 500, 375, 48)
 background = pygame.image.load('images/Game_b2.png').convert_alpha()
 red = pygame.image.load("images/RED.png").convert_alpha()
 blue = pygame.image.load("images/BLUE.png").convert_alpha()
-cardFrame = pygame.image.load("images/CARD.png").convert()
+cardFrameB = pygame.image.load("images/cardB.png").convert()
+cardFrameR = pygame.image.load("images/cardR.png").convert()
 cardPic = pygame.image.load("art/ERROR.png").convert()
 
 card = False  # detect when card is active
@@ -205,12 +207,15 @@ while running:
     screen.blit(blue, (boardX(Players[1].Apos), boardY(Players[1].Apos)))  # print Blue player
 
     if card:  # Display card if 'card' is true
-        screen.blit(cardFrame, (50, 50))
+        if ActivePlayer:
+            screen.blit(cardFrameB, (50, 50))
+        else:
+            screen.blit(cardFrameR, (50, 50))
         screen.blit(cardPic, (85, 110))
 
         cardTitle = gameDeck[cardDraw].title  # Button text
-        cardTitle = smallFont.render(cardTitle, True, Black)  # color and font
-        place_cardTitle = cardTitle.get_rect(topleft=(150, 75))  # placement
+        cardTitle = midFont.render(cardTitle, True, Black)  # color and font
+        place_cardTitle = cardTitle.get_rect(topleft=(90, 75))  # placement
         screen.blit(cardTitle, place_cardTitle)
 
         if len(gameDeck[cardDraw].choicesText) == 0:
