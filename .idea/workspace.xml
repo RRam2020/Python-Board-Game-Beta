@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b3a779-5a28-47b5-bfd3-febe4038e98e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Cards.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/art/Art0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/art/Art1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/art/Art2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/art/Art3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/art/Art4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/art/ERROR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/art/Math.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/art/ToD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BLUE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/CARD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Card/base.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Card/pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Game.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Game_b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Game_b2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/RED.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/base.png" afterDir="false" />
-    </list>
+    <list default="true" id="e3b3a779-5a28-47b5-bfd3-febe4038e98e" name="Changes" comment="Git v2.3 Updated graphics" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,8 +12,36 @@
   </component>
   <component name="ChangesViewManager" show_ignored="true" />
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RRam2020&quot;
+  }
+}</component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="Git v2.3 Updated graphics" />
+        <option name="rewordedMessage" value="Git v2.3 Updated graphics" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="e6a715467e4bc65694c86acf7bdd16db6f06cf40" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RRam2020/Python-board-game-beta.git&quot;,
+    &quot;accountId&quot;: &quot;8915fb66-93da-47e1-bedc-bc45d745fd84&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -44,15 +52,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.game.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/IZY2091/Desktop/Program projects/Board Game 2 beta Python/Game alpha/Game V6 Git",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;git-2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/IZY2091/Desktop/Program projects/Board Game 2 beta Python/Game alpha/Game V6 Git&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: []
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\IZY2091\Desktop\Program projects\Board Game 2 beta Python\Game alpha\Game V6 Git" />
@@ -74,6 +86,119 @@
       <option name="presentableId" value="Default" />
       <updated>1716418106786</updated>
     </task>
+    <task id="LOCAL-00001" summary="Git v1">
+      <option name="closed" value="true" />
+      <created>1716420783239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716420783239</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Git v2">
+      <option name="closed" value="true" />
+      <created>1716421805814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716421805814</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Git v2">
+      <option name="closed" value="true" />
+      <created>1716422222195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716422222195</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Git v3 small error and typo fix">
+      <option name="closed" value="true" />
+      <created>1716422263471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716422263471</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Git v2.1 small error and typo fix">
+      <option name="closed" value="true" />
+      <created>1716422298453</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716422298453</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Git v2.1 small error and typo fix">
+      <option name="closed" value="true" />
+      <created>1716422310566</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716422310566</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Git v2.1 small error and typo fix">
+      <option name="closed" value="true" />
+      <created>1716422757392</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716422757392</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Git v2.1 small error and typo fix">
+      <option name="closed" value="true" />
+      <created>1716422767154</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716422767154</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Git v2.1 removed some more error and typos">
+      <option name="closed" value="true" />
+      <created>1716429338962</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716429338962</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Git v2.1 removed some more error and typos">
+      <option name="closed" value="true" />
+      <created>1716429355985</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716429355985</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Git v2.2 removed some more error and typos">
+      <option name="closed" value="true" />
+      <created>1716429361432</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716429361432</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Git v2.3 Updated graphics">
+      <option name="closed" value="true" />
+      <created>1717291777869</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1717291777869</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Git v2.3 Updated graphics">
+      <option name="closed" value="true" />
+      <created>1717291788140</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1717291788140</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Git v2.3 Updated graphics">
+      <option name="closed" value="true" />
+      <created>1717291993789</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717291993789</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +211,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Git v1" />
+    <MESSAGE value="Git v2" />
+    <MESSAGE value="Git v3 small error and typo fix" />
+    <MESSAGE value="Git v2.1 small error and typo fix" />
+    <MESSAGE value="Git v2.1 removed some more error and typos" />
+    <MESSAGE value="Git v2.2 removed some more error and typos" />
+    <MESSAGE value="Git v2.3 Updated graphics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git v2.3 Updated graphics" />
   </component>
 </project>
