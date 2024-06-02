@@ -26,6 +26,16 @@
     &quot;assignee&quot;: &quot;RRam2020&quot;
   }
 }</component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="Git v2.3 Updated graphics" />
+        <option name="rewordedMessage" value="Git v2.3 Updated graphics" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="e6a715467e4bc65694c86acf7bdd16db6f06cf40" />
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/RRam2020/Python-board-game-beta.git&quot;,
@@ -180,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717291788140</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Git v2.3 Updated graphics">
+      <option name="closed" value="true" />
+      <created>1717291993789</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717291993789</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
